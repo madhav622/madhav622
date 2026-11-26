@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello%2C+I%27m+Madhav+Mandekar;Cybersecurity+Professional;SOC+Analyst+%26+Digital+Forensics;Welcome+to+my+GitHub%21" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello%2C+I%27m+Madhav+Mandekar;Cybersecurity+learner;SOC+Analyst+%26+Digital+Forensics;Welcome+to+my+GitHub%21" />
 
 </div>
 
