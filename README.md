@@ -129,7 +129,7 @@ I'm a **Cybersecurity learner,** with hands-on experience in **SOC monitoring**,
 <summary><b>🛡️ Atos, Bangalore - SOC L1 Analyst (MDR Intern)</b></summary>
 
 - 📅 Feb 2026 – Jul 2026
-- 🚨 Triaged about 30–40 alerts per shift
+- 🚨 Triaged about 50–60 alerts per shift
 - 🔍 Investigated Windows, firewall, EDR, VPN, MFA and IDS logs
 - 🎯 Performed threat intel checks and basic threat hunting
 
