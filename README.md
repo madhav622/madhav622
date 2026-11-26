@@ -18,7 +18,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
 
-I'm a **Cybersecurity Professional** with hands-on experience in **SOC monitoring**, **threat hunting** and **digital forensics**. I hold an **MSc Cyber Security** from National Forensic Sciences University.
+I'm a **Cybersecurity learner,** with hands-on experience in **SOC monitoring**, **threat hunting** and **digital forensics**. I hold an **MSc Cyber Security** from National Forensic Sciences University.
 
 🔍 **Currently Working On:**
 - Digital Evidence Acquisition & Analysis
