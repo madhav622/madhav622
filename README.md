@@ -216,7 +216,7 @@ I'm a **Cybersecurity learner,** with hands-on experience in **SOC monitoring**,
 class CyberSecurityEnthusiast:
     def __init__(self):
         self.name = "Madhav Mandekar"
-        self.role = "Cybersecurity Professional"
+        self.role = "Cybersecurity learner,"
         self.education = "MSc Cyber Security @ NFSU"
         self.interests = ["SOC", "Threat Hunting", "Digital Forensics",
                           "CTF Competitions", "Bug Bounty"]
